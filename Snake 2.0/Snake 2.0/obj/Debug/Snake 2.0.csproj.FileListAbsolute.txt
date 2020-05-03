@@ -1,0 +1,7 @@
+C:\Users\gr691_fnv\source\repos\Snake 3.0\Snake 3.0\bin\Debug\Snake 3.0.exe.config
+C:\Users\gr691_fnv\source\repos\Snake 3.0\Snake 3.0\bin\Debug\Snake 3.0.exe
+C:\Users\gr691_fnv\source\repos\Snake 3.0\Snake 3.0\bin\Debug\Snake 3.0.pdb
+C:\Users\gr691_fnv\source\repos\Snake 3.0\Snake 3.0\obj\Debug\Snake 3.0.csprojAssemblyReference.cache
+C:\Users\gr691_fnv\source\repos\Snake 3.0\Snake 3.0\obj\Debug\Snake 3.0.csproj.CoreCompileInputs.cache
+C:\Users\gr691_fnv\source\repos\Snake 3.0\Snake 3.0\obj\Debug\Snake 3.0.exe
+C:\Users\gr691_fnv\source\repos\Snake 3.0\Snake 3.0\obj\Debug\Snake 3.0.pdb
